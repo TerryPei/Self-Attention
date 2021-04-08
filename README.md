@@ -1,2 +1,2 @@
 # Self-Attention
-Transformer for cognitive diagnosis
+Transformer for cd
